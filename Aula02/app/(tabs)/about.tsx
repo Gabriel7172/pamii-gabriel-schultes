@@ -1,4 +1,6 @@
 import { Text, View, StyleSheet } from 'react-native';
+import { Image } from 'expo-image'; 
+
 
 export default function AboutScreen() {
   return (
