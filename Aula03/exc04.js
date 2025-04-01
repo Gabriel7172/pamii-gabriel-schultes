@@ -7,6 +7,9 @@ for (let i = n-1; i>1 ; i--){
         window.alert("NÚMERO NÃO PRIMO")
         break; 
     }
-}
+    
+    
+}      
+        window.alert("NÚMERO PRIMO")
 
-window.alert("NÚMERO PRIMO")
+
