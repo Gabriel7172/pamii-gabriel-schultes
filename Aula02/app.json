@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "aula02",
-    "slug": "aula02",
+    "name": "ImagePicker",
+    "slug": "ImagePicker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
