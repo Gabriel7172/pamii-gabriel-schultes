@@ -10,7 +10,7 @@ Repositório referente as aulas de PAMII do João Siles e Najara Gabriella
 1. Abra o app de terminal (windows terminal no Windows)
 2. Navegue até o local em que deseja clonar o repositório
 > Use ``cd {Diretorio desejado}`` ex: ``cd /home/adilson/clone/``
-3. Digite ``$ git clone https://github.com/Adilson-kina/PAMII-Adilson-Kina.git``
+3. Digite ``$ git clone https://github.com/Gabriel7172/pamii-gabriel-schultes.git``
 
 ## Como criar um projeto em EXPO
 1. Dentro do app de terminal digite ``$ npx create-expo-app@latest``
