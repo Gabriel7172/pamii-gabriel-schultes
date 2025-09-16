@@ -5,7 +5,7 @@ let idade = "17";
 
 console.log("(1) Olá, meu nome é " + nome + " e eu tenho " + idade + " anos!");
 
-// 2. Operadores: Crie um programa que solicite ao usuário dois números e exiba o resultado da soma, subtração, multiplicação e divisão desses números.
+// 2. Operadores: Crie um programa que solicite ao usuário dois números e exiba o resultado da soma; subtração, multiplicação e divisão desses números.
 
 let numero1 = parseInt(prompt("Digite um número: "));
 let numero2 = parseInt(prompt("Digite outro número: "));
